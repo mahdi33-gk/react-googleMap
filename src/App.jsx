@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       
-      <h1>React Google map</h1>
+      <h1>React Googled map</h1>
      
     </>
   )
